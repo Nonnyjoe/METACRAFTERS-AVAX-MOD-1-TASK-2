@@ -12,12 +12,12 @@ This Complete Dapp is a simple implementation of a the token transfer dapp where
 ## CONTRACT ADDRESSES (GOERLI) AND LIVE LINK
 - SIMPLEDAPP CONTRACT ADDRESSES: [0xfEC609820171F36c92e8C20311fAD75De6a5d681](https://goerli.etherscan.io/address/0xfec609820171f36c92e8c20311fad75de6a5d681)
 
-- LIVE LINK: [LIVE WEBSITE]()
+- LIVE LINK: [LIVE WEBSITE](https://metacrafters-avax-mod-1-task-2.vercel.app/)
 
 
 ## Executing program
 #### STEP 1
-- NAVIGATE TO THIS PROJECT WEBSITE VIA THIS [LINK](https://goerli.etherscan.io/address/0xfec609820171f36c92e8c20311fad75de6a5d681#writeContract)
+- NAVIGATE TO THIS PROJECT WEBSITE VIA THIS [LINK](https://metacrafters-avax-mod-1-task-2.vercel.app/)
 
 #### STEP 2
 - CONNECT YOUR METAMASK WALLET AND IF NECCESARY CHANGE YOUR NETWORK TO GOERLI.
