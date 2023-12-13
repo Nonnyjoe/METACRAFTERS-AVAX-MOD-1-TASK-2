@@ -1,0 +1,35 @@
+.inputField {
+    margin: 10px 0;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+
+  .contents {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+  }
+
+  .contentContainer {
+    padding: 1rem;
+    border: 2px solid black;
+  }
+  
